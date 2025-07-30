@@ -27,3 +27,4 @@ A modern, professional job portal built with React and Tailwind CSS.
 ## Environment Variables
 
 Create a `.env` file with:
+.
